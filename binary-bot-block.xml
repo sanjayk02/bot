@@ -1,0 +1,14 @@
+﻿<xml xmlns="http://www.w3.org/1999/xhtml" collection="true">
+  <block type="tick_analysis" id=";*]EzK?wj5p#dF%fFQUy">
+    <statement name="TICKANALYSIS_STACK">
+      <block type="variables_set" id="O)PZ3-JLcdACg;d[YFJ.">
+        <field name="VAR" id="{zYq.0LmKb;$.vk;=G:b" variabletype="">candles</field>
+        <value name="VALUE">
+          <block type="ohlc" id="Rgv51|NssUa.l185!}mj">
+            <field name="CANDLEINTERVAL_LIST">default</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+</xml>
